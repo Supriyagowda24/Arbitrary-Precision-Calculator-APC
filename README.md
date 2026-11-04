@@ -69,6 +69,3 @@ gcc *.c
 **Supriya J.**
 
 Electrical and Electronics Engineering
-
-[GitHub Profile](https://github.com/Supriyagowda24)
-
