@@ -54,6 +54,7 @@ gcc *.c
 
 ```text
 111111111011111111100
+
 ```
 
 ## 📚 Key Learning Outcomes
