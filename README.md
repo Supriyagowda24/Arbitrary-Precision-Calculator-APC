@@ -1,6 +1,6 @@
-# Arbitrary Precision Calculator (APC) using C
+# Arbitrary Precision Calculator (APC)
 
-### A C-based application for performing arithmetic operations on large numbers using Doubly Linked Lists.
+### Performing Arithmetic Operations on Large Numbers Using Doubly Linked Lists
 
 ## 📌 Project Overview
 
@@ -10,13 +10,15 @@ The project uses a **Doubly Linked List (DLL)** to represent numbers digit by di
 
 ## ✨ Key Features
 
-- Performs addition, subtraction, multiplication, and division on large numbers.
-- Supports command-line input for operands and operators.
-- Uses Doubly Linked Lists for digit-by-digit number representation.
-- Validates command-line arguments and input operands.
-- Handles arithmetic operations through modular implementation.
+- Addition of large numbers
+- Subtraction of large numbers
+- Multiplication of large numbers
+- Division of large numbers
+- Command-line argument validation
+- Handling of invalid operands and operators
+- Modular implementation of arithmetic operations
 
-## 🛠️ Technical Skills & Concepts
+## 🛠️ Technologies & Concepts
 
 | Category | Technologies / Concepts |
 |---|---|
@@ -30,7 +32,7 @@ The project uses a **Doubly Linked List (DLL)** to represent numbers digit by di
 
 1. Accepts two operands and an arithmetic operator through command-line arguments.
 2. Validates the input operands and operator.
-3. Converts the numbers into Doubly Linked List representations.
+3. Represents the numbers using Doubly Linked Lists.
 4. Performs the selected arithmetic operation.
 5. Displays the calculated result.
 
@@ -56,9 +58,9 @@ gcc *.c
 
 ## 📚 Key Learning Outcomes
 
-- Developed practical understanding of Doubly Linked List implementation.
+- Implemented Doubly Linked Lists for large number representation.
 - Applied pointers and dynamic memory allocation in C.
-- Implemented arithmetic logic for large number calculations.
+- Developed arithmetic logic for large number calculations.
 - Strengthened problem-solving and debugging skills.
 - Gained experience in modular programming and command-line argument handling.
 
@@ -67,3 +69,6 @@ gcc *.c
 **Supriya J.**
 
 Electrical and Electronics Engineering
+
+[GitHub Profile](https://github.com/Supriyagowda24)
+
