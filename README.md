@@ -43,7 +43,6 @@ The project uses a **Doubly Linked List (DLL)** to represent numbers digit by di
 ```bash
 gcc *.c
 ```
-
 ### Sample Execution
 
 ```bash
@@ -54,7 +53,6 @@ gcc *.c
 
 ```text
 111111111011111111100
-
 ```
 
 ## 📚 Key Learning Outcomes
