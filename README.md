@@ -62,9 +62,3 @@ gcc *.c
 - Developed arithmetic logic for large number calculations.
 - Strengthened problem-solving and debugging skills.
 - Gained experience in modular programming and command-line argument handling.
-
-## 👩‍💻 Author
-
-**Supriya J.**
-
-Electrical and Electronics Engineering
